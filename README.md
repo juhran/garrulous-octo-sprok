@@ -1,2 +1,4 @@
 # garrulous-octo-sprok
-hello world
+hello 
+
+first code in github, finally.
